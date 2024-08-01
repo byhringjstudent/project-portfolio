@@ -9,7 +9,7 @@ Projects:
 - Handwritten digit recognition using TensorFlow and Keras.
 3. **[Task Master Flask App](https://your-streamlit-cloud-url-for-task-master-flask-app)**
 - Task management application built with Flask.
-4. **[GitHub Analytics Dashboard](https://2fzad6p7hpzezixf9a5f4w.streamlit.app/)**
+4. **[GitHub Analytics Dashboard](https://app-repository-analytics-dashboard-3lzt68td3o2amm4jhip6vv.streamlit.app/)**
 - Analyzes and visualizes GitHub repository data.
 ## About Me
 🧠🐍🐟🌏🎯🍍🌿💥
