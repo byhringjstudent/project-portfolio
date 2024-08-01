@@ -16,9 +16,9 @@ I am Jason, a Software Developer who is passionate about Machine Learning and Ar
 
 Technology Stack
 
-    Languages: Python, JavaScript, etc.
-    Frameworks: Flask, Django, React, etc.
-    Tools: Git, Docker, etc.
+    Languages: Python, JavaScript, HTML, CSS, REACT, Django, Flask, RESTful API's, Relational Databases, Version Control...
+    Frameworks: Flask, Django, React.
+    Tools: Git, Docker, Package Management in Python.
 
 Achievements & Metrics
 
