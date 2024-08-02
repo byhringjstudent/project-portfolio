@@ -7,6 +7,8 @@ Projects:
 - Predicts stock prices using machine learning algorithms.
 2. **[GitHub Analytics Dashboard](https://app-repository-analytics-dashboard-3lzt68td3o2amm4jhip6vv.streamlit.app/)**
 - Analyzes and visualizes GitHub repository data.
+3. **[Music API in Django Rest Framework](https://stock-predictor-app-mqwmxskm5sj5aakmxztdws.streamlit.app/)**
+- This music API is ready to receive songs, albums, and artists.
 
 
 ## About Me
