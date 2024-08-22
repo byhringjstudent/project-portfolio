@@ -13,8 +13,9 @@ Projects:
 - This Web Based Game coded in HTML5 demonstrates the use of JS Libraries.
 5. **[Twitter(X) Streaming API](https://github.com/byhringjstudent/)**
 - ...
-6. **[Sentiment Analysis Application using Recurrent Neural Networks and Training Models]** 
+6. **[Sentiment Analysis Application using Recurrent Neural Networks and Training Models](https://github.com/byhringjstudent/)** 
 - ...
+
 ## About Me
 🧠🐍🐟🌏🎯🍍🌿💥
 
