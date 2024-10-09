@@ -16,7 +16,7 @@ Projects:
 - This Web Based Game coded in HTML5 demonstrates the use of JS Libraries.
 Projects:
 
-5. **[Card Shuffling and Dealing Simulation](https://stock-predictor-app-mqwmxskm5sj5aakmxztdws.streamlit.app/)**
+5. **[Card Shuffling and Dealing Simulation](https://github.com/byhringjstudent/Card-Shuffling-and-Dealing-Simulation/tree/main)**
 - This project leverages object-oriented principles to simulate a deck of cards, encapsulating internal data representation and employing name mangling for simulating private attributes.
 - The DeckOfCards class provides features for shuffling, dealing, and visualizing cards using the Matplotlib library of features, demonstrating a robust and interactive card game simulation with card images.
 
